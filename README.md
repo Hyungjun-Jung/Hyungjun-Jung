@@ -7,7 +7,7 @@
   ::Contact Info:: <br> gudwnstkfkd1@gmail.com <br>
 <br>
 
-![car](https://github.com/user-attachments/assets/831b9ff8-988a-427b-b60d-de97f7a1f91b)
+![car](https://github.com/user-attachments/assets/9fceca91-a1bf-4ea7-9625-21c7fb5d4032)
 
 </div>
 <div align=center>

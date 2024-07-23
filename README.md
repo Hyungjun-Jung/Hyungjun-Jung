@@ -1,16 +1,29 @@
-## Hi there 👋
+<div align=center>
+  Hi, I’m Hyungjun! <br>
+  I'm majoring in Electronics Engineering with a great interest in AI.<br>
+  Currently, I am developing embedded software using Mobilgene.<br>
+  I mainly use C and Python languages.<br>
+  <br>
+  ::Contact Info:: <br> gudwnstkfkd1@gmail.com <br>
+<br>
 
-<!--
-**Hyungjun-Jung/Hyungjun-Jung** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![car](https://github.com/user-attachments/assets/831b9ff8-988a-427b-b60d-de97f7a1f91b)
 
-Here are some ideas to get you started:
+</div>
+<div align=center>
+   <h3> Tech Stack </h3>
+</div>
+<div align="center">
+<img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
+<img src="https://img.shields.io/badge/VS-5C2D91?style=flat-square&logo=Visual Studio&logoColor=white"/>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</div>
+<br>
+<br>
+
+<div align=center>
+🚀 Developing Embedded Software
+<br>
+💡AI Enthusiast
+</div>
